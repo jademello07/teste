@@ -2,4 +2,5 @@ melancia
 banana
 morango
 mamão
-pera
+abacate
+pitaya
