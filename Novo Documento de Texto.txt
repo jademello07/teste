@@ -2,3 +2,4 @@ melancia
 banana
 morango
 mamão
+pera
