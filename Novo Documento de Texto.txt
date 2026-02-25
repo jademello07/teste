@@ -3,3 +3,4 @@ banana
 morango
 mamão
 abacate
+pitaya
